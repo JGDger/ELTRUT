@@ -1,0 +1,9 @@
+C:\Users\админ\Documents\Visual Studio 2013\Projects\GeneticTest\bin\Debug\GeneticTest.exe.config
+C:\Users\админ\Documents\Visual Studio 2013\Projects\GeneticTest\bin\Debug\GeneticTest.exe
+C:\Users\админ\Documents\Visual Studio 2013\Projects\GeneticTest\bin\Debug\GeneticTest.pdb
+C:\Users\админ\Documents\Visual Studio 2013\Projects\GeneticTest\obj\Debug\GeneticTest.csprojResolveAssemblyReference.cache
+C:\Users\админ\Documents\Visual Studio 2013\Projects\GeneticTest\obj\Debug\GeneticTest.Form1.resources
+C:\Users\админ\Documents\Visual Studio 2013\Projects\GeneticTest\obj\Debug\GeneticTest.Properties.Resources.resources
+C:\Users\админ\Documents\Visual Studio 2013\Projects\GeneticTest\obj\Debug\GeneticTest.csproj.GenerateResource.Cache
+C:\Users\админ\Documents\Visual Studio 2013\Projects\GeneticTest\obj\Debug\GeneticTest.exe
+C:\Users\админ\Documents\Visual Studio 2013\Projects\GeneticTest\obj\Debug\GeneticTest.pdb
